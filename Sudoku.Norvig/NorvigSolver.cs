@@ -27,5 +27,5 @@ namespace Sudoku.Norvig
         }
     }
 
-
+//fin
 }
